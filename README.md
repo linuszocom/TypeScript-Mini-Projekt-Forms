@@ -12,7 +12,7 @@ Utmaningen är att använda **Array Destructuring** på minst ett ställe för a
 
 ## Checklista 
 
-För att bli godkänd på momentet ska din kod innehålla:
+Svårt att komma igång? Använd denna lista som hjälp.
 
 * **Event Handling:** En `addEventListener` på formulärets "submit" som använder `e.preventDefault()`.
 * **Data-hantering:** Hämtning av `.value` från input-fält samt typkonvertering (t.ex. `Number()`).
